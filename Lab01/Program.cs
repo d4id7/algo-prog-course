@@ -93,3 +93,12 @@ Console.WriteLine($"Цена без НСД: {productPrice}, с НСД ({VatRate}
 комментарий
 */
 
+// Задание 1
+int scholarship = 3100;
+int monthlyExpenses = 2920;
+int remainder = scholarship - monthlyExpenses;
+const int MonthsInSemester = 4;
+
+// Если говорить о реальной стипендии и реальных тратах, то значение было бы примерно -3000 (минимум)
+Console.WriteLine($"Ежемесячный остаток денег со стипендии: {remainder}");
+Console.WriteLine($"Суммарный остаток со стипендии за весь семестр: {remainder * MonthsInSemester}");
