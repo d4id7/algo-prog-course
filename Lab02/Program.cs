@@ -88,3 +88,17 @@ bool wasSuccessful = int.TryParse(booksInput, out int booksCount);
 
 Console.WriteLine($"Удалось преобразовать: {wasSuccessful}");
 Console.WriteLine($"Значение переменной bookCount: {booksCount}");
+
+// Задание 1
+System.Console.WriteLine();
+Console.Write("Введите свой рост (м): ");
+string heightInput = Console.ReadLine();
+double heightParse = double.Parse(heightInput);
+
+Console.Write("Введите свой вес (кг): ");
+string weightInput = Console.ReadLine();
+double weightParse = double.Parse(weightInput);
+
+double bmi = weightParse / (heightParse * heightParse);
+
+Console.WriteLine($"ИМТ: {bmi:F2}");
