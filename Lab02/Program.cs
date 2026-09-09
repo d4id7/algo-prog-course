@@ -65,7 +65,7 @@ Console.WriteLine($"Здравствуйте, {enteredName} из группы {e
 
 
 Console.WriteLine();
-Console.WriteLine("Ввод чисел: Conver и Parse");
+Console.WriteLine("Ввод чисел: Convert и Parse");
 
 Console.Write("Введите ваш год рождения: ");
 string birthYearInput = Console.ReadLine();
@@ -102,3 +102,24 @@ double weightParse = double.Parse(weightInput);
 double bmi = weightParse / (heightParse * heightParse);
 
 Console.WriteLine($"ИМТ: {bmi:F2}");
+
+// Задание 3
+Console.WriteLine();
+Console.Write("Введите возраст: ");
+string ageInput = Console.ReadLine();
+bool ageFlag = int.TryParse(ageInput, out int ageTP);
+
+Console.Write("Введите индекс массы тела: ");
+string bmiInput = Console.ReadLine();
+bool bmiFlag = double.TryParse(bmiInput, out double bmiTP);
+
+Console.Write("Введите дату рождения (дд.мм.гггг): ");
+string birthDateInput = Console.ReadLine();
+bool birthDateFlag = DateTime.TryParse(birthDateInput, out DateTime birthDateTP);
+
+Console.WriteLine($"Удалось преобразовать возраст: {ageFlag}");
+Console.WriteLine($"Значение: {ageTP}");
+Console.WriteLine($"Удалось преобразовать ИМТ: {bmiFlag}");
+Console.WriteLine($"Значение: {bmiTP}");
+Console.WriteLine($"Удалось преобразовать дату рождения: {birthDateFlag}");
+Console.WriteLine($"Значение: {birthDateTP}");
