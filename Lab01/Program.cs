@@ -100,5 +100,6 @@ int remainder = scholarship - monthlyExpenses;
 const int MonthsInSemester = 4;
 
 // Если говорить о реальной стипендии и реальных тратах, то значение было бы примерно -3000 (минимум)
+Console.WriteLine();
 Console.WriteLine($"Ежемесячный остаток денег со стипендии: {remainder}");
 Console.WriteLine($"Суммарный остаток со стипендии за весь семестр: {remainder * MonthsInSemester}");
