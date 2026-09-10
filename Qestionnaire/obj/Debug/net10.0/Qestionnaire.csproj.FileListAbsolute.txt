@@ -1,0 +1,14 @@
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\bin\Debug\net10.0\Qestionnaire.exe
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\bin\Debug\net10.0\Qestionnaire.deps.json
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\bin\Debug\net10.0\Qestionnaire.runtimeconfig.json
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\bin\Debug\net10.0\Qestionnaire.dll
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\bin\Debug\net10.0\Qestionnaire.pdb
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\Qestionnaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\Qestionnaire.AssemblyInfoInputs.cache
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\Qestionnaire.AssemblyInfo.cs
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\Qestionnaire.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\Qestionnaire.dll
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\refint\Qestionnaire.dll
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\Qestionnaire.pdb
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\Qestionnaire.genruntimeconfig.cache
+C:\Users\User\Documents\algo-prog-course\Qestionnaire\obj\Debug\net10.0\ref\Qestionnaire.dll

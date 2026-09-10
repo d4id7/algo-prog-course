@@ -1,0 +1,14 @@
+C:\Users\User\Documents\algo-prog-course\NameInitials\bin\Debug\net10.0\NameInitials.exe
+C:\Users\User\Documents\algo-prog-course\NameInitials\bin\Debug\net10.0\NameInitials.deps.json
+C:\Users\User\Documents\algo-prog-course\NameInitials\bin\Debug\net10.0\NameInitials.runtimeconfig.json
+C:\Users\User\Documents\algo-prog-course\NameInitials\bin\Debug\net10.0\NameInitials.dll
+C:\Users\User\Documents\algo-prog-course\NameInitials\bin\Debug\net10.0\NameInitials.pdb
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\NameInitials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\NameInitials.AssemblyInfoInputs.cache
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\NameInitials.AssemblyInfo.cs
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\NameInitials.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\NameInitials.dll
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\refint\NameInitials.dll
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\NameInitials.pdb
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\NameInitials.genruntimeconfig.cache
+C:\Users\User\Documents\algo-prog-course\NameInitials\obj\Debug\net10.0\ref\NameInitials.dll
